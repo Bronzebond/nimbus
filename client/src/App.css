@@ -1,0 +1,14 @@
+#formBasicQuestion {
+  box-shadow: 2px 2px 7px 1px #e9d53f;
+  width: 25%;
+  text-align: center;
+  margin: auto;
+  margin-top: 2rem;
+}
+
+#formBasicQuestionContent {
+  box-shadow: 2px 2px 7px 1px #e9d53f;
+  width: 75%;
+  text-align: center;
+  margin: auto;
+}
